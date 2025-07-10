@@ -90,6 +90,23 @@ The UTM link is automatically generated based on the campaign details, ensuring 
 **Example Generated Name:**
 `https://yourdomain.com?utm_source=email&utm_medium=crm&utm_campaign=CRM_1516_2025_07_10_Slots_Retention_VIP_Email_SummerSpins`
 
+## Getting Started
+
+To get a local copy up and running, follow these simple steps:
+
+1.  Clone the repo:
+    ```sh
+    git clone
+    ```
+2.  Install dependencies:
+    ```sh
+    npm install
+    ```
+3.  Run the app:
+    ```sh
+    npm run dev
+    ```
+
 ## Fun Fact
 
 The name Align_ reflects exactly what the tool does:
