@@ -25,5 +25,5 @@ export default function HowToUse() {
   };
 
   // Render the appropriate content block based on the selected tab
-  return <div className=" w-full lg:w-2/5">{HowToUseContentBlock()}</div>;
+  return <>{HowToUseContentBlock()}</>;
 }
