@@ -14,7 +14,7 @@ Here is a list of the projects currently hosted in this repository. Click on a p
 
 | Project Name                                     | Description                                                                 | Status          | Live Demo                               |
 | :----------------------------------------------- | :-------------------------------------------------------------------------- | :-------------- | :-------------------------------------- |
-| **`Align_`** | Align_ is a lightweight web-based tool that helps marketing and CRM teams **generate standardized campaign names** and **UTM links** with ease.   | `✅ Completed`  |(Not yet deployed)  |
+| **`Align_`** | Align_ is a lightweight web-based tool that helps marketing and CRM teams **generate standardized campaign names** and **UTM links** with ease.   | `✅ Completed`  |https://www.align.bz/  |
 | **`MatchMVP`** | MatchMVP is a lightweight web-based tool that helps football content creators rate players performance and predict their own starting line up     | `🛠️ In Progress` | (Temp disabled) |
 
 *(This table will be updated as new projects are added.)*
