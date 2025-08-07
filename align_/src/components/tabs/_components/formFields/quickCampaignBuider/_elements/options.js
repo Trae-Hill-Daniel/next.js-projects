@@ -1,29 +1,45 @@
 export const marketingChannels = [
-  { key: 1, label: "Email", value: "email" },
-  { key: 2, label: "In App Message", value: "in_app_message" },
-  { key: 3, label: "Push Notification", value: "push_notification" },
-  { key: 4, label: "SMS", value: "sms" },
-  { key: 5, label: "Web Push Notification", value: "web_push_notification" },
-  { key: 6, label: "WhatsApp", value: "whats_app" },
+  { key: 1, label: "Direct Message", value: "direct_message" },
+  { key: 2, label: "Email", value: "email" },
+  { key: 3, label: "In App Message", value: "in_app_message" },
+  { key: 4, label: "Multi Channel", value: "multi_channel" },
+  { key: 5, label: "Pop Up", value: "pop_up" },
+  { key: 6, label: "Push Notification", value: "push_notification" },
+  { key: 7, label: "SMS", value: "sms" },
+  { key: 8, label: "Social Media", value: "social_media" },
+  { key: 9, label: "Telegram", value: "telegram" },
+  { key: 10, label: "Web Push Notification", value: "web_push_notification" },
+  { key: 11, label: "WhatsApp", value: "whats_app" },
+  { key: 12, label: "Other", value: "other" },
 ];
 
 export const campaignTypes = [
   { key: 1, label: "Adhoc", value: "adhoc" },
-  { key: 2, label: "Bonus Led", value: "bonus_led" },
-  { key: 3, label: "Compensation", value: "compensation" },
-  { key: 4, label: "Product Led", value: "product_led" },
-  { key: 5, label: "Other", value: "other" },
-  { key: 6, label: "Tech Issues", value: "tech_issues" },
+  { key: 2, label: "Automation", value: "auto" },
+  { key: 3, label: "Bonus Led", value: "bonus_led" },
+  { key: 4, label: "Compensation", value: "compensation" },
+  { key: 5, label: "Product Led", value: "product_led" },
+  { key: 6, label: "Other", value: "other" },
+  { key: 7, label: "Ops", value: "ops" },
+  { key: 8, label: "Ops Automation", value: "ops_automation" },
+  { key: 9, label: "Scheduled", value: "scheduled" },
+  { key: 10, label: "Site Wide", value: "site_wide" },
+  { key: 11, label: "Social Media", value: "social_media" },
+  { key: 12, label: "Survey", value: "survey" },
+  { key: 13, label: "Triggered", value: "triggered" },
+  { key: 14, label: "Tech Issues", value: "tech_issues" },
 ];
 
 export const productCategories = [
-  { key: 1, label: "Slots", value: "slots" },
-  { key: 2, label: "Sports", value: "sports" },
-  { key: 3, label: "Poker", value: "poker" },
-  { key: 4, label: "Bingo", value: "bingo" },
-  { key: 5, label: "Live Casino", value: "live_casino" },
-  { key: 6, label: "Virtual Sports", value: "virtual_sports" },
+  { key: 1, label: "Bingo", value: "bingo" },
+  { key: 2, label: "Free To Play", value: "ftp" },
+  { key: 3, label: "Live Casino", value: "live_casino" },
+  { key: 4, label: "Poker", value: "poker" },
+  { key: 5, label: "Slots", value: "slots" },
+  { key: 6, label: "Sports", value: "sports" },
   { key: 7, label: "Table Games", value: "table_games" },
+  { key: 8, label: "Video Poker", value: "video_poker" },
+  { key: 9, label: "Virtual Sports", value: "virtual_sports" },
 ];
 
 export const playerSegments = [
@@ -38,7 +54,8 @@ export const playerSegments = [
   { key: 9, label: "Anti-Churn", value: "anti_churn" },
   { key: 10, label: "Reactivation", value: "reactivation" },
   { key: 11, label: "Retention", value: "retention" },
-  { key: 12, label: "Other", value: "other" },
+  { key: 12, label: "Site Wide", value: "site_wide" },
+  { key: 13, label: "Other", value: "other" },
 ];
 export const utmSources = [
   { key: 1, label: "Google", value: "google" },
@@ -52,6 +69,12 @@ export const utmSources = [
   { key: 9, label: "SMS", value: "sms" },
   { key: 10, label: "Web Push Notification", value: "web_push_notification" },
   { key: 11, label: "WhatsApp", value: "whats_app" },
+  { key: 12, label: "Social Media", value: "social_media" },
+  { key: 13, label: "Survey", value: "survey" },
+  { key: 14, label: "Telegram", value: "telegram" },
+  { key: 15, label: "Direct Message", value: "direct_message" },
+  { key: 16, label: "Pop Up", value: "pop_up" },
+  { key: 17, label: "Trust Pilot", value: "trust_pilot" },
 ];
 
 export const utmMediums = [
@@ -75,4 +98,10 @@ export const utmMediums = [
   { key: 18, label: "Web Push Notification", value: "web_push_notification" },
   { key: 19, label: "WhatsApp", value: "whats_app" },
   { key: 20, label: "Direct", value: "direct" },
+  { key: 21, label: "Social Media", value: "social_media" },
+  { key: 22, label: "Survey", value: "survey" },
+  { key: 23, label: "Telegram", value: "telegram" },
+  { key: 24, label: "Direct Message", value: "direct_message" },
+  { key: 25, label: "Pop Up", value: "pop_up" },
+  { key: 26, label: "Trust Pilot", value: "trust_pilot" },
 ];
