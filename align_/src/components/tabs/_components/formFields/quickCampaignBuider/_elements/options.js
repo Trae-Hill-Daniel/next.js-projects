@@ -28,7 +28,7 @@ export const campaignTypes = [
   { key: 12, label: "Survey", value: "survey" },
   { key: 13, label: "Triggered", value: "triggered" },
   { key: 14, label: "Tech Issues", value: "tech_issues" },
-  { key: 14, label: "Test", value: "test" },
+  { key: 15, label: "Test", value: "test" },
 ];
 
 export const productCategories = [
